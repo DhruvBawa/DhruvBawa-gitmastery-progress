@@ -169,5 +169,14 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787539540.068575,
+    "completed_at": 1787539542.746166,
+    "comments": [
+      "Remote 'alice-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-alice, fix that!"
+    ],
+    "status": "Incomplete"
   }
 ]
